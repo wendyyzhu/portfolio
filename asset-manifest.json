@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.43b2e79c.css",
-    "main.js": "/portfolio/static/js/main.7cfcc809.js",
+    "main.js": "/portfolio/static/js/main.dd340a24.js",
     "static/media/servo-app.png": "/portfolio/static/media/servo-app.74927180dc82043ef64c.png",
     "static/media/fine-line.png": "/portfolio/static/media/fine-line.503cff4e025c3e6d45f0.png",
     "static/media/burgulator.png": "/portfolio/static/media/burgulator.c88d95f7873e9dcc5738.png",
     "static/media/wenandco.png": "/portfolio/static/media/wenandco.57cd0a877a30909d7dff.png",
     "static/media/node.png": "/portfolio/static/media/node.290f630040630c5948b6.png",
     "static/media/psql.png": "/portfolio/static/media/psql.ba7576c1a458ad0dfc26.png",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.46011f36db328dbdece2.pdf",
     "static/media/css.png": "/portfolio/static/media/css.9f33c557b92e4e2e1cc8.png",
     "static/media/js.png": "/portfolio/static/media/js.a2a16f087e18d50f3d99.png",
     "static/media/react.png": "/portfolio/static/media/react.20adfb35ae6a6e5817bf.png",
@@ -19,10 +20,10 @@
     "static/media/githubwhite.png": "/portfolio/static/media/githubwhite.987334e9f782cc505f25.png",
     "index.html": "/portfolio/index.html",
     "main.43b2e79c.css.map": "/portfolio/static/css/main.43b2e79c.css.map",
-    "main.7cfcc809.js.map": "/portfolio/static/js/main.7cfcc809.js.map"
+    "main.dd340a24.js.map": "/portfolio/static/js/main.dd340a24.js.map"
   },
   "entrypoints": [
     "static/css/main.43b2e79c.css",
-    "static/js/main.7cfcc809.js"
+    "static/js/main.dd340a24.js"
   ]
 }
