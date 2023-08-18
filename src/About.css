@@ -1,0 +1,40 @@
+.about .about-text {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.custom-shape-divider-bottom-1692314325 {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1692314325 svg {
+    display: block;
+    width: calc(132% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-bottom-1692314325 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/** For tablet devices **/
+@media (min-width: 768px) and (max-width: 1023px) {
+    .custom-shape-divider-bottom-1692314325 svg {
+        width: calc(132% + 1.3px);
+        height: 100px;
+    }
+}
+
+@media (max-width: 800px) {
+    .about h2 {
+        font-size: large;
+        line-height: 25px;
+    }
+}

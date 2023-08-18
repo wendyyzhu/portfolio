@@ -1,0 +1,18 @@
+.nav-bar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+.nav-bar a {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.nav-bar a:hover {
+    border: 2px solid black;
+}

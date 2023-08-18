@@ -1,0 +1,50 @@
+.contact .contact-text {
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.custom-shape-divider-top-1692314601 {
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+    padding-top: 20px;
+}
+
+.custom-shape-divider-top-1692314601 svg {
+    display: block;
+    width: calc(132% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-top-1692314601 .shape-fill {
+    fill: #000000;
+}
+
+/** For tablet devices **/
+@media (min-width: 768px) and (max-width: 1023px) {
+    .custom-shape-divider-top-1692314601 svg {
+        width: calc(132% + 1.3px);
+        height: 100px;
+    }
+}
+
+.contact img {
+    margin-right: 10px;
+    width: 30px;
+}
+
+.contact img:hover {
+    border: 2px solid white;
+    padding: 2px;
+    border-radius: 50%;
+}
+
+.contact-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
