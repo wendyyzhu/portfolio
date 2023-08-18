@@ -7,7 +7,7 @@ export default function Header() {
     return (
         <div className="header">
             <div className='header-text'>
-                <h1>Hello, I'm <span>Wendy Zhu</span>!</h1>
+                <h1>Hello, I'm <span>WENDY ZHU</span>!</h1>
                 <h1>A full-stack <span>software engineer</span> based in <span>Melbourne</span>.</h1> 
                 <h1>I love building things and being creative.</h1>
             </div>
