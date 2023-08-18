@@ -76,9 +76,6 @@
         display: block;
         text-align: center;
     }
-    .projects ul {
-        list-style-type: none;
-    }
     .projects .tech {
         justify-content: center;
         padding-bottom: 50px;
