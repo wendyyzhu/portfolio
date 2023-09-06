@@ -8,6 +8,7 @@ import git from "./git.png"
 import mongo from "./mongodb.png"
 import psql from "./psql.png"
 import githubwhite from "./githubwhite.png"
+import react from "./react.png"
 
 export default function Skills() {
     return (
@@ -34,6 +35,12 @@ export default function Skills() {
                     <img className="image" src={html} alt="html" />
                     <div className="middle">
                         <div className="text">HTML</div>
+                    </div>
+                </div>
+                <div className="img-container">
+                    <img className="image" src={react} alt="node" />
+                    <div className="middle">
+                        <div className="text">React</div>
                     </div>
                 </div>
                 <div className="img-container">

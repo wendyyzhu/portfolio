@@ -5,7 +5,7 @@
 .skills-wrapper {
     margin-top: 50px;
     display: grid; 
-    grid-template-columns: repeat(9, 1fr);
+    grid-template-columns: repeat(10, 1fr);
     max-width: 1500px;
     width: 90%;
     margin: 0 auto;
@@ -77,7 +77,7 @@
 
 @media (max-width: 1000px) {
     .skills-wrapper {
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     }
     .img-container {
         width: 60%;
@@ -88,10 +88,16 @@
     .img-container {
         width: 80%;
     }
+    .skills-wrapper {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
 }
 
 @media (max-width: 500px) {
     .img-container {
         width: 100%;
+    }
+    .skills-wrapper {
+        grid-template-columns: 1fr 1fr 1fr;
     }
 }
