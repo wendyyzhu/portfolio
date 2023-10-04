@@ -7,8 +7,7 @@ export default function NavBar() {
             <a href="#about">ABOUT</a>
             <a href="#projects">PROJECTS</a>
             <a href="#skills">SKILLS</a>
-            {/* <a href="#contact">CONTACT</a> */}
-            <a href={resume}>RESUME</a>
+            <a href={resume} target="_blank" rel="noopener noreferrer">RESUME</a>
         </nav>
     )
 }
